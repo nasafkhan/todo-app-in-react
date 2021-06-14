@@ -1,5 +1,8 @@
 ## An Todo App in React
 
+    Application is build with react and hosted in firebase with
+    Github Actions for CI/CD automated deployment
+
 ## Installation
 
     Clone the repository
